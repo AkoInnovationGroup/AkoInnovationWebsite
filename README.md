@@ -42,10 +42,8 @@
 
 ## 📌 About
 
-**Ako Innovation Group Website** is the official corporate website of [Ako Innovation Group](https://github.com/AkoInnovationGroup).  
+**Ako Innovation Group Website** is the official corporate website of [Ako Innovation Group](https://akoinnovation.org/).  
 It is fully static and built using modern web technologies to ensure optimal performance and accessibility.
-
-🧠 Designed and developed by [Pooyesh Torabi](https://pooyeshtorabi.top)
 
 ---
 
